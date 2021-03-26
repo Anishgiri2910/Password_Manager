@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Password Manager</string>
+    <string name="instructions" translatable="false">"
+        Place Your Finger On The Sensor     "</string>
+    <string name="title_activity_password_page">Password Page</string>
+    <string name="url">URL:</string>
+    <string name="user_name">User Name :</string>
+    <string name="password">Password :</string>
+    <string name="phone_no">Phone No :</string>
+    <string name="question_1">Question 1 :</string>
+    <string name="answer_1">Answer 1 :</string>
+    <string name="question_2">Question 2 :</string>
+    <string name="answer_2">Answer 2 :</string>
+    <string name="question_3">Question 3 :</string>
+    <string name="answer_3">Answer 3 :</string>
+    <string name="empty_not_saved">Url not saved because empty</string>
+    <string name="name">Anish Giri</string>
+    <string name="year">Final Year Student</string>
+    <string name="location">Amritapuri, Kollam</string>
+    <string name="knowledge_base">Knowledge Base:</string>
+    <string name="languages">Python  \nC#  \nJava  \nAndroid  \nHTML  \nDjango</string>
+</resources>
